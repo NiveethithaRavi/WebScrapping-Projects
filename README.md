@@ -27,7 +27,11 @@ Projects in Beautiful Soup, Regex and Selenium:
        
        Taking Screenshot of WebPage Using Selenium
        
-Though there are Dozens of Automatic Web Scrapping Tools..I hope this Repository will help some Beginner Level Web Scrappers Who wish to Know the Basic Manual Process Behind Web Scrapping.
+Though there are Dozens of Automatic Web Scrapping Tools..I hope this Repository will help some Beginner Level Web Scrappers Who wish to Know the Basic Manual Process Behind Web Scrapping
+
+
+Learning Source -  Hackers Realm(https://www.youtube.com/playlist?list=PL_8jNcohs27U7hhyYsd-fxtdtxhmj204F) - Place Where I learned This Cool Stuff.
+
 
 
 
